@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-VENV_PATH="/home/thecsr/cachehitvenv"
-BACKEND_DIR="/home/thecsr/CacheHit/backend"
-FRONTEND_DIR="/home/thecsr/CacheHit/frontend"
+VENV_PATH= your path to virtual env dir
+BACKEND_DIR=your path to backend dir
+FRONTEND_DIR=your path to frontend dir
 
 echo "⚡ Starting CacheHit Development Stack..."
 
